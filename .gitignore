@@ -1,0 +1,15 @@
+Release*/
+Debug*/
+.settings/
+local.properties
+.loadpath
+.recommenders
+*.bak
+*.swp
+*~.nib
+*.o
+*.elf
+*.mk
+*.map
+*.mak
+*.tmp
